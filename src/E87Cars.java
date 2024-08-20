@@ -13,7 +13,7 @@ public class E87Cars {
         // print objects
         System.out.println("Car color is "+auto1.carColor+" and car year is "+auto1.carYear+" and car model is "+auto1.carMake);
         System.out.println("Car color is "+auto2.carColor+" and car year is "+auto2.carYear+" and car model is "+auto2.carMake);
-        
+
 
 
     }
