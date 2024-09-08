@@ -2,7 +2,7 @@ class Instance{
     int myInt;
     String mystring;
     double myDouble;
-    Boolean myboolean;
+    boolean myboolean;
     float myFloat;
     void dispplay(){
         System.out.println(myboolean);
