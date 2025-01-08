@@ -1,0 +1,17 @@
+package JavaOOPSConcepts;
+
+public class Company {
+    Company(){
+        System.out.println("Company Established");
+    }
+}
+class Department extends Company{
+    Department(){
+        System.out.println("Department Created");
+    }
+}
+class Employee extends Department{
+    Employee(){
+        System.out.println("Employee Hired");
+    }
+}
